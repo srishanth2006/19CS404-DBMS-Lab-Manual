@@ -212,6 +212,7 @@ where city like '%Chennai%';
 
 **Output:**
 
+![image](https://github.com/user-attachments/assets/212949f5-a186-4f1e-9502-26bd35b00cd6)
 
 ## RESULT
 Thus, the SQL queries to implement aggregate functions, GROUP BY, and HAVING clause have been executed successfully.
